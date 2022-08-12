@@ -28,4 +28,4 @@ futures = "0.3"
 pulsar = "4.0"
 tokio = { version = "1.20.1", features = ["full"] }
 serde = { version = "1.0.143", features = ["derive"] }
-serde-env = "0.0.2"
+serde-env = "0.0.3"
